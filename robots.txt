@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://blogtest2.curation.space/sitemap.xml
